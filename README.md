@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [linkedin]: https://www.linkedin.com/in/anjali-c-abraham-b737aa213/
 
-[Twitter]: https://twitter.com/AnjaliCAbraham1
+[Twitter]: https://twitter.com/AnjaliCAbraham
